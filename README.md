@@ -19,7 +19,4 @@ In a separate figure I’ve simply counted the total number of tweets each car c
 This information is important because a Fiat has the highest positive brand image on average but pulls from a 
 sample of only about 15 tweets.
 
-Going forward:
 
-If we treat Twitter data like survey data one question is who/why did someone not answer a question (tweet). What
-inferences can we draw from those who are not tweeting about car companies?
